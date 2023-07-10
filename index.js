@@ -79,7 +79,22 @@
 // }
 
 
+
 // Задание 6
+
+// function sumOfArray (arr) {
+//     let sum = 0;
+//     for(i = 0; i < arr.length; i++) { 
+//     sum +=arr[i];
+//     }
+//     return sum;
+// }
+  
+
+//   console.log(sumOfArray([2, 5, 1, 3]));
+
+
+// Задание 7
 
 // const arr = ["a", "b"];
 // const additem = (arr, item) => {
@@ -90,7 +105,7 @@
 // console.log(arr);
 
 
-// Задание 7
+// Задание 8
 
 // const users = [
 //     { name: "Alex", age: 31 },
